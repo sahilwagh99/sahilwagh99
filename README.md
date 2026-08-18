@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,50:f97316,100:18181b&height=220&section=header&text=Sahil%20Wagh&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20AUTOMATION%20ENGINEER&descAlignY=70&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+AI-powered+automation+systems;Engineering+RAG+%26+Agentic+AI+pipelines;Turning+unstructured+data+into+intelligence;Automating+what+should+not+be+manual+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+AI-powered+automation+systems;Engineering+RAG+%26+Agentic+AI+pipelines;Turning+unstructured+data+into+intelligence;Automating+what+should+not+be+manual" />
 
 <br>
 
