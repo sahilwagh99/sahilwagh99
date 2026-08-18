@@ -39,7 +39,7 @@ class SahilWagh:
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🧠 AI & GenAI
 *Building production-ready language and retrieval models.*<br><br>
