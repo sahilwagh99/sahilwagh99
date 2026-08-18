@@ -32,7 +32,6 @@ class SahilWagh:
     ]
 
     philosophy = "Automate what should not be manual."
-```
 
 ---
 
