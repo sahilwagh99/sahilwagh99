@@ -1,162 +1,333 @@
-<h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
-<h3 align="center">AI & Automation Engineer | GenAI | RAG | Python | Cloud</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilwagh99&label=Profile%20views&color=0e75b6&style=flat-square" alt="sahilwagh99" />
-  <img src="https://img.shields.io/github/followers/sahilwagh99?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-</p>
+# 👋 Hey, I'm **Sahil Wagh**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilwagh99&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="trophies" />
-</p>
+### `AI & Automation Engineer` · `GenAI` · `RAG` · `Python` · `AWS`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+automation+systems;Engineering+RAG+%26+Agentic+AI+pipelines;Turning+unstructured+data+into+intelligence;Automating+the+boring+stuff+%F0%9F%A4%96" />
 
-### 🚀 About Me
+<br>
 
-I'm an **AI & Automation Engineer** focused on building practical systems that combine **Generative AI, intelligent document processing, RAG, computer vision, automation, and cloud infrastructure**.
+<img src="https://komarev.com/ghpvc/?username=sahilwagh99&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sahilwagh99?label=FOLLOWERS&style=for-the-badge&color=181717" />
 
-* 🤖 Building **GenAI applications** using Python, LangChain, LangGraph, LlamaIndex and LLM APIs
-* 🔎 Developing **RAG pipelines** with embeddings, vector databases and document processing
-* 📄 Working with **AI-powered document & invoice extraction** using AWS Textract and LLMs
-* 🕷️ Building web automation and crawling solutions using **Playwright, Selenium and Crawl4AI**
-* 🧠 Exploring **multi-agent systems and agent orchestration** with LangGraph
-* 👁️ Working with **Computer Vision, OCR and object detection** using OpenCV, YOLO and EasyOCR
-* ☁️ Building cloud-based solutions with **AWS, Docker, Lambda, S3, ECR and Textract**
-* ⚙️ Implementing **CI/CD pipelines** using GitHub, Jenkins and Docker
-* 🔄 Automating repetitive business processes using **UiPath and Microsoft Power Automate**
+<br><br>
 
-> **My goal:** Turn repetitive processes and unstructured data into intelligent, automated systems.
+<a href="mailto:sahilwagh.dev@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 🛠️ Technical Arsenal
+<a href="https://kaggle.com/sahilwagh" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
-| Domain                    | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming**           | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)                                                                                                                                                                                                                                                                      |
-| **GenAI & LLM**           | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)                                                                           |
-| **RAG & Vector DB**       | ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)                                                                                                                                                                                                                                                 |
-| **AI / Computer Vision**  | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge\&logo=opencv\&logoColor=5C3EE8) ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge) ![EasyOCR](https://img.shields.io/badge/EasyOCR-3776AB?style=for-the-badge)                                                                                                                |
-| **Backend**               | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)                                                                                                                                                             |
-| **Automation & Crawling** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-00AEEF?style=for-the-badge\&logo=uipath\&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge\&logo=microsoft-power-automate\&logoColor=white) |
-| **Databases**             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)                                                                                                                                                 |
-| **Cloud & DevOps**        | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)                                                    |
-| **AWS Services**          | `S3` · `Textract` · `Lambda` · `ECR` · `Boto3`                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Document AI**           | `PyMuPDF` · `Docling` · `OCR` · `AWS Textract` · `LLM-based Extraction`                                                                                                                                                                                                                                                                                                                                                                                                             |
+</div>
 
 ---
 
-### 🧠 What I'm Building
+## ⚡ `whoami`
 
-#### 🔹 Generative AI & RAG
+```python
+class SahilWagh:
 
-Building production-oriented RAG systems involving:
+    role = "AI & Automation Engineer"
 
-* Document ingestion & processing
-* Chunking & embedding pipelines
-* Vector similarity search
-* Retrieval & reranking
-* LLM-based generation
-* Agentic workflows
-* Multi-agent orchestration
+    focus = [
+        "Generative AI",
+        "RAG Systems",
+        "Agentic AI",
+        "Intelligent Automation",
+        "Computer Vision",
+        "Cloud & DevOps"
+    ]
 
-#### 🔹 Intelligent Document Processing
+    philosophy = "Automate what should not be manual."
 
-Working with pipelines combining:
-
-`PDF → OCR → Textract → LLM → Structured Data → Validation`
-
-Focused on extracting reliable information from invoices and other business documents.
-
-#### 🔹 AI-Powered Automation
-
-Combining:
-
-`Web Automation + AI + APIs + RPA + Cloud`
-
-to eliminate repetitive manual workflows and create scalable automation systems.
-
-#### 🔹 Computer Vision
-
-Experience with:
-
-`YOLO + OpenCV + EasyOCR`
-
-for applications such as vehicle detection, number-plate recognition and image-based data extraction.
-
----
-
-### ☁️ Cloud & DevOps
-
-Currently working with:
-
-```text
-AWS
-├── S3
-├── Textract
-├── Lambda
-├── ECR
-└── Boto3
-
-DevOps
-├── Docker
-├── Jenkins
-├── GitHub
-├── CI/CD
-└── Automated Testing
+    currently_learning = [
+        "Advanced Python",
+        "System Design",
+        "AWS Architecture",
+        "Production RAG",
+        "DSA"
+    ]
 ```
 
 ---
 
-### 📊 Engineering Metrics
+## 🧠 AI / GENAI STACK
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilwagh99&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilwagh99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🛠️ ENGINEERING STACK
+
+### 🐍 Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mongodb,mysql" />
 </p>
 
+`Python` · `FastAPI` · `Flask` · `Django` · `PostgreSQL` · `MongoDB` · `MySQL`
+
+### 👁️ Computer Vision & Document AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+</p>
+
+`YOLO` · `OpenCV` · `EasyOCR` · `PyMuPDF` · `Docling` · `AWS Textract`
+
+### 🤖 Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+`Playwright` · `Selenium` · `Crawl4AI` · `UiPath` · `Power Automate`
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github,git" />
+</p>
+
+`AWS` · `S3` · `Lambda` · `ECR` · `Boto3` · `Docker` · `Jenkins` · `CI/CD`
+
 ---
 
-### 🏆 Areas I'm Currently Improving
+# 🚀 WHAT I BUILD
 
-* 🧠 Advanced **Generative AI & Agentic AI**
-* 🏗️ **Production-grade RAG architectures**
-* 🐍 Advanced **Python & backend engineering**
-* 🗄️ **PostgreSQL & database design**
-* ☁️ **AWS & cloud architecture**
-* 🚀 **Docker, CI/CD & DevOps**
-* 💻 **Data Structures & Algorithms**
-* 🏛️ **System Design**
+<div align="center">
+
+|   🧠 GenAI  |     ⚙️ Automation     |    👁️ Vision    |  ☁️ Cloud  |
+| :---------: | :-------------------: | :--------------: | :--------: |
+| RAG Systems |     Web Automation    | Object Detection |     AWS    |
+|  AI Agents  |          RPA          |        OCR       |   Docker   |
+|   LLM Apps  |   Process Automation  |   Number Plates  |    CI/CD   |
+| Document AI | Intelligent Workflows |  Video Analytics | Serverless |
+
+</div>
 
 ---
 
-### 📫 Connect & Collaborate
+# 🔥 FEATURED WORK
 
-<p align="left">
-<a href="mailto:sahilwagh.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+### 📄 Intelligent Document Processing
+
+```text
+             ┌──────────────┐
+             │   PDF/Image  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ OCR / DocAI  │
+             │  Textract    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │     LLM      │
+             │  Extraction  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Structured   │
+             │     Data     │
+             └──────────────┘
+```
+
+Building pipelines that transform **unstructured business documents → structured, usable data**.
+
+---
+
+### 🕷️ AI Web Crawling & RAG
+
+```text
+Web
+ │
+ ▼
+Crawl4AI
+ │
+ ▼
+Clean & Process
+ │
+ ▼
+Chunking
+ │
+ ▼
+Embeddings
+ │
+ ▼
+Vector Database
+ │
+ ▼
+Retriever
+ │
+ ▼
+LLM / Agent
+ │
+ ▼
+Answer
+```
+
+---
+
+### 🚗 Computer Vision
+
+```text
+Video
+  ↓
+YOLO Detection
+  ↓
+Vehicle Classification
+  ↓
+Number Plate Detection
+  ↓
+OCR
+  ↓
+Structured Output
+```
+
+---
+
+# 🧩 CURRENTLY EXPLORING
+
+```text
+                    ┌─────────────────────┐
+                    │    GENERATIVE AI    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+          RAG SYSTEMS      AI AGENTS       MULTIMODAL AI
+              │                │                │
+              ▼                ▼                ▼
+        Vector Search      LangGraph        Vision + LLM
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                       PRODUCTION SYSTEMS
+                               │
+                               ▼
+                      AWS + Docker + CI/CD
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilwagh99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilwagh99&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sahilwagh99&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahilwagh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+# 📚 CURRENT FOCUS
+
+<div align="center">
+
+`██████████████████░░` **Generative AI**
+
+`████████████████░░░░` **RAG & Agentic AI**
+
+`██████████████░░░░░░` **Python / Backend**
+
+`████████████░░░░░░░░` **AWS / Cloud**
+
+`██████████░░░░░░░░░░` **System Design**
+
+`████████░░░░░░░░░░░░` **DSA**
+
+</div>
+
+---
+
+## 🌐 FIND ME ONLINE
+
+<div align="center">
+
+<a href="https://kaggle.com/sahilwagh">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-<a href="https://discord.gg/qstcY4kX52" target="_blank">
+<a href="https://www.leetcode.com/sai_wagh">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://discord.gg/qstcY4kX52">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://kaggle.com/sahilwagh" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<a href="mailto:sahilwagh.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.leetcode.com/sai_wagh" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+<br><br>
+
+<a href="https://drive.google.com/file/d/1lpU4DsrjAuA8hxiXneTlSdRclogX9dpT/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄%20View%20Resume-0072C6?style=for-the-badge" />
 </a>
 
-<a href="https://drive.google.com/file/d/1lpU4DsrjAuA8hxiXneTlSdRclogX9dpT/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Resume-0072C6?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <sub><i>"Engineering intelligent systems out of digital chaos."</i></sub>
-</p>
+<div align="center">
+
+### 💭
+
+> **"Engineering intelligent systems out of digital chaos."**
+
+<br>
+
+`BUILD → AUTOMATE → INTELLIGENT → SCALE`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2CBF&height=100&section=footer" />
+
+</div>
