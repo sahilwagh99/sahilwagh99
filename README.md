@@ -42,9 +42,7 @@ class SahilWagh:
 
 ### 🧠 AI & GenAI
 *Building production-ready language and retrieval models.*<br><br>
-<img src="https://img.shields.io/badge/PyTorch-18181b?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&borderColor=3f3f46" />
-<img src="https://img.shields.io/badge/HuggingFace-18181b?style=for-the-badge&logo=huggingface&logoColor=FFD21E&borderColor=3f3f46" />
-<img src="https://img.shields.io/badge/LangChain-18181b?style=for-the-badge&logo=chainlink&logoColor=white&borderColor=3f3f46" />
+<img src="https://skillicons.dev/icons?i=pytorch,huggingface,langchain&theme=dark&perline=3" />
 <br><br>
 
 </td>
@@ -70,10 +68,7 @@ class SahilWagh:
 
 ### ☁️ Cloud & Automation
 *Deploying resilient systems and RPA workflows.*<br><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github&theme=dark&perline=4" />
-<br><br>
-<img src="https://img.shields.io/badge/UiPath-18181b?style=for-the-badge&logo=uipath&logoColor=FA4616&borderColor=3f3f46" />
-<img src="https://img.shields.io/badge/Power_Automate-18181b?style=for-the-badge&logo=powerautomate&logoColor=0066FF&borderColor=3f3f46" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github,uipath,powerautomate&theme=dark&perline=6" />
 <br><br>
 
 </td>
@@ -81,7 +76,6 @@ class SahilWagh:
 </table>
 
 </div>
-
 ## 🚀 Featured Engineering Pipelines
 
 ### 🧠 RAG & Agentic AI Architecture
