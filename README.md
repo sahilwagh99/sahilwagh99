@@ -146,12 +146,51 @@ class SahilWagh:
 
 <div align="center">
 
-|   🧠 GenAI  |  🤖 Automation |    👁️ Vision    |  ☁️ Cloud  |
-| :---------: | :------------: | :--------------: | :--------: |
-| RAG Systems |     UiPath     | Object Detection |     AWS    |
-|  AI Agents  | Power Automate |        OCR       |   Docker   |
-|   LLM Apps  |       RPA      |   Number Plates  |    CI/CD   |
-| Document AI |  AI Workflows  |  Video Analytics | Serverless |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Systems
+
+Building **production-oriented GenAI applications** that combine LLMs, RAG and agentic workflows to solve real business problems.
+
+`RAG` · `Agents` · `LLMs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Intelligent Automation
+
+Turning repetitive business processes into **AI-assisted automated workflows** using RPA and intelligent process automation.
+
+`UiPath` · `Power Automate`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Document Intelligence
+
+Transforming **unstructured documents into structured data** using OCR, document processing and LLM-based extraction.
+
+`Textract` · `OCR` · `LLMs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Production Engineering
+
+Building reliable AI services with **APIs, containers, cloud infrastructure and automated deployment pipelines**.
+
+`Python` · `AWS` · `Docker` · `CI/CD`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -255,36 +294,6 @@ OCR
       ↓
 Structured Output
 ```
-
----
-
-# 🧩 CURRENTLY EXPLORING
-
-<div align="center">
-
-### 🤖 Generative AI
-
-**LangChain · LangGraph · RAG · AI Agents · LLM Applications**
-
-<br>
-
-### 🏗️ Production Engineering
-
-**Python · FastAPI · PostgreSQL · System Design · APIs**
-
-<br>
-
-### ☁️ Cloud & DevOps
-
-**AWS · Docker · Jenkins · CI/CD**
-
-<br>
-
-### ⚡ Intelligent Automation
-
-**UiPath · Power Automate · AI-powered Workflows**
-
-</div>
 
 ---
 
