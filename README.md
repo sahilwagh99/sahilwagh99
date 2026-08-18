@@ -17,12 +17,12 @@
 <img src="https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://kaggle.com/sahilwagh" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://www.leetcode.com/sai_wagh" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
@@ -58,13 +58,13 @@ class SahilWagh:
 
 ---
 
-## 🧠 AI / GENAI STACK
+# 🧠 AI & GENAI
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
@@ -73,7 +73,7 @@ class SahilWagh:
 
 <br>
 
-<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
@@ -82,39 +82,63 @@ class SahilWagh:
 
 ---
 
-## 🛠️ ENGINEERING STACK
+# 🛠️ ENGINEERING STACK
 
 ### 🐍 Backend & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mongodb,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,mysql" />
 </p>
 
-`Python` · `FastAPI` · `Flask` · `Django` · `PostgreSQL` · `MongoDB` · `MySQL`
+`Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `MySQL`
+
+---
+
+### 🧠 LLM & AI Frameworks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</p>
+
+`LangChain` · `LangGraph` · `LlamaIndex` · `Hugging Face` · `LLM APIs` · `RAG`
+
+---
 
 ### 👁️ Computer Vision & Document AI
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
 </p>
 
 `YOLO` · `OpenCV` · `EasyOCR` · `PyMuPDF` · `Docling` · `AWS Textract`
 
-### 🤖 Automation
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=selenium" />
+### 🤖 Intelligent Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
+
 </p>
 
-`Playwright` · `Selenium` · `Crawl4AI` · `UiPath` · `Power Automate`
+**UiPath** · **Microsoft Power Automate** · RPA · Intelligent Workflows · AI-powered Automation
+
+---
 
 ### ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github,git" />
 </p>
 
-`AWS` · `S3` · `Lambda` · `ECR` · `Boto3` · `Docker` · `Jenkins` · `CI/CD`
+`AWS` · `S3` · `Lambda` · `ECR` · `Boto3` · `Docker` · `Jenkins` · `GitHub` · `CI/CD`
 
 ---
 
@@ -122,74 +146,96 @@ class SahilWagh:
 
 <div align="center">
 
-|   🧠 GenAI  |     ⚙️ Automation     |    👁️ Vision    |  ☁️ Cloud  |
-| :---------: | :-------------------: | :--------------: | :--------: |
-| RAG Systems |     Web Automation    | Object Detection |     AWS    |
-|  AI Agents  |          RPA          |        OCR       |   Docker   |
-|   LLM Apps  |   Process Automation  |   Number Plates  |    CI/CD   |
-| Document AI | Intelligent Workflows |  Video Analytics | Serverless |
+|   🧠 GenAI  |  🤖 Automation |    👁️ Vision    |  ☁️ Cloud  |
+| :---------: | :------------: | :--------------: | :--------: |
+| RAG Systems |     UiPath     | Object Detection |     AWS    |
+|  AI Agents  | Power Automate |        OCR       |   Docker   |
+|   LLM Apps  |       RPA      |   Number Plates  |    CI/CD   |
+| Document AI |  AI Workflows  |  Video Analytics | Serverless |
 
 </div>
 
 ---
 
-# 🔥 FEATURED WORK
+# 🔥 FEATURED ENGINEERING
+
+### 🧠 RAG & Agentic AI
+
+```text
+                ┌──────────────────┐
+                │ Documents / Web  │
+                │      / APIs      │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │ Processing &     │
+                │    Chunking      │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │    Embeddings    │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │   Vector Store   │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │    Retriever     │
+                └────────┬─────────┘
+                         ↓
+              ┌──────────────────────┐
+              │ LangChain / LangGraph│
+              └──────────┬───────────┘
+                         ↓
+                ┌──────────────────┐
+                │    LLM / Agent   │
+                └────────┬─────────┘
+                         ↓
+                  Intelligent
+                     Output
+```
+
+---
 
 ### 📄 Intelligent Document Processing
 
 ```text
-             ┌──────────────┐
-             │   PDF/Image  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │ OCR / DocAI  │
-             │  Textract    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     LLM      │
-             │  Extraction  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │ Structured   │
-             │     Data     │
-             └──────────────┘
+PDF / Image
+     ↓
+AWS Textract / OCR
+     ↓
+Document Processing
+     ↓
+LLM Extraction
+     ↓
+Validation
+     ↓
+Structured Data
+     ↓
+Business Automation
 ```
 
-Building pipelines that transform **unstructured business documents → structured, usable data**.
+Building AI pipelines that transform **unstructured documents into structured, actionable information**.
 
 ---
 
-### 🕷️ AI Web Crawling & RAG
+### 🤖 Intelligent Automation
 
 ```text
-Web
- │
- ▼
-Crawl4AI
- │
- ▼
-Clean & Process
- │
- ▼
-Chunking
- │
- ▼
-Embeddings
- │
- ▼
-Vector Database
- │
- ▼
-Retriever
- │
- ▼
-LLM / Agent
- │
- ▼
-Answer
+Business Process
+       ↓
+Process Analysis
+       ↓
+UiPath / Power Automate
+       ↓
+AI / LLM Integration
+       ↓
+API / Database
+       ↓
+Automated Workflow
+       ↓
+Business Outcome
 ```
 
 ---
@@ -197,16 +243,16 @@ Answer
 ### 🚗 Computer Vision
 
 ```text
-Video
-  ↓
+Video / Image
+      ↓
 YOLO Detection
-  ↓
+      ↓
 Vehicle Classification
-  ↓
+      ↓
 Number Plate Detection
-  ↓
+      ↓
 OCR
-  ↓
+      ↓
 Structured Output
 ```
 
@@ -214,25 +260,31 @@ Structured Output
 
 # 🧩 CURRENTLY EXPLORING
 
-```text
-                    ┌─────────────────────┐
-                    │    GENERATIVE AI    │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-          RAG SYSTEMS      AI AGENTS       MULTIMODAL AI
-              │                │                │
-              ▼                ▼                ▼
-        Vector Search      LangGraph        Vision + LLM
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                       PRODUCTION SYSTEMS
-                               │
-                               ▼
-                      AWS + Docker + CI/CD
-```
+<div align="center">
+
+### 🤖 Generative AI
+
+**LangChain · LangGraph · RAG · AI Agents · LLM Applications**
+
+<br>
+
+### 🏗️ Production Engineering
+
+**Python · FastAPI · PostgreSQL · System Design · APIs**
+
+<br>
+
+### ☁️ Cloud & DevOps
+
+**AWS · Docker · Jenkins · CI/CD**
+
+<br>
+
+### ⚡ Intelligent Automation
+
+**UiPath · Power Automate · AI-powered Workflows**
+
+</div>
 
 ---
 
@@ -244,11 +296,7 @@ Structured Output
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilwagh99&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=sahilwagh99&theme=tokyonight&hide_border=true" />
 
@@ -266,27 +314,7 @@ Structured Output
 
 ---
 
-# 📚 CURRENT FOCUS
-
-<div align="center">
-
-`██████████████████░░` **Generative AI**
-
-`████████████████░░░░` **RAG & Agentic AI**
-
-`██████████████░░░░░░` **Python / Backend**
-
-`████████████░░░░░░░░` **AWS / Cloud**
-
-`██████████░░░░░░░░░░` **System Design**
-
-`████████░░░░░░░░░░░░` **DSA**
-
-</div>
-
----
-
-## 🌐 FIND ME ONLINE
+# 🌐 CONNECT
 
 <div align="center">
 
@@ -309,7 +337,7 @@ Structured Output
 <br><br>
 
 <a href="https://drive.google.com/file/d/1lpU4DsrjAuA8hxiXneTlSdRclogX9dpT/view?usp=sharing">
-<img src="https://img.shields.io/badge/📄%20View%20Resume-0072C6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-0072C6?style=for-the-badge" />
 </a>
 
 </div>
@@ -324,10 +352,10 @@ Structured Output
 
 <br>
 
-`BUILD → AUTOMATE → INTELLIGENT → SCALE`
+`BUILD` → `AUTOMATE` → `INTELLIGENT` → `SCALE`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2CBF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2CBF&height=120&section=footer" />
 
 </div>
