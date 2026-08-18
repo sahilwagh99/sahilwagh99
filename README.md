@@ -50,7 +50,7 @@ class SahilWagh:
 
 
 </td>
-<td width="100%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🐍 Backend & Data
 *Architecting scalable data pipelines and APIs.*<br><br>
@@ -61,7 +61,7 @@ class SahilWagh:
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 👁️ Vision & Document AI
 *Extracting structured intelligence from unstructured data.*<br><br>
@@ -70,7 +70,7 @@ class SahilWagh:
 
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### ☁️ Cloud & Automation
 *Deploying resilient systems and RPA workflows.*<br><br>
