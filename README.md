@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white&borderColor=3f3f46)](https://github.com/sahilwagh99)
 
 </div>
----
+
 
 ## 👨‍💻 `whoami`
 
@@ -34,12 +34,11 @@ class SahilWagh:
 ```
 
 ## 🛠️ Engineering Stack
-
 <div align="center">
 
 <table width="100%">
 <tr>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🧠 AI & GenAI
 *Building production-ready language and retrieval models.*<br><br>
@@ -49,7 +48,7 @@ class SahilWagh:
 <br><br>
 
 </td>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🐍 Backend & Data
 *Architecting scalable data pipelines and APIs.*<br><br>
@@ -59,7 +58,7 @@ class SahilWagh:
 </td>
 </tr>
 <tr>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 👁️ Vision & Document AI
 *Extracting structured intelligence from unstructured data.*<br><br>
@@ -67,7 +66,7 @@ class SahilWagh:
 <br><br>
 
 </td>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ☁️ Cloud & Automation
 *Deploying resilient systems and RPA workflows.*<br><br>
@@ -82,7 +81,6 @@ class SahilWagh:
 </table>
 
 </div>
----
 
 ## 🚀 Featured Engineering Pipelines
 
