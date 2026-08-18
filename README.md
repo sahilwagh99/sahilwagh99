@@ -33,9 +33,9 @@ class SahilWagh:
     philosophy = "Automate what should not be manual."
 ```
 
----
-
 ## 🛠️ Engineering Stack
+
+<div align="center">
 
 <table width="100%">
 <tr>
@@ -48,7 +48,6 @@ class SahilWagh:
 <img src="https://img.shields.io/badge/LangChain-18181b?style=for-the-badge&logo=chainlink&logoColor=white&borderColor=3f3f46" />
 <br><br>
 
-
 </td>
 <td width="33.33%" valign="top">
 
@@ -56,7 +55,6 @@ class SahilWagh:
 *Architecting scalable data pipelines and APIs.*<br><br>
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,mysql&theme=dark&perline=5" />
 <br><br>
-
 
 </td>
 </tr>
@@ -67,7 +65,6 @@ class SahilWagh:
 *Extracting structured intelligence from unstructured data.*<br><br>
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,aws&theme=dark&perline=5" />
 <br><br>
-
 
 </td>
 <td width="33.33%" valign="top">
@@ -80,11 +77,11 @@ class SahilWagh:
 <img src="https://img.shields.io/badge/Power_Automate-18181b?style=for-the-badge&logo=powerautomate&logoColor=0066FF&borderColor=3f3f46" />
 <br><br>
 
-
 </td>
 </tr>
 </table>
 
+</div>
 ---
 
 ## 🚀 Featured Engineering Pipelines
