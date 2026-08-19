@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Full-width dynamic tech banner -->
-<img src="https://i.pinimg.com/originals/f3/7c/ec/f37cece581898160d7557161b4db1b1c.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Cyberpunk Tech Banner"/>
+<!-- Reliable Cyberpunk Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:FF00FF&height=220&section=header&text=Sahil%20Wagh&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20AUTOMATION%20ENGINEER&descAlignY=70&descSize=18" width="100%" />
 
 <br><br>
 
