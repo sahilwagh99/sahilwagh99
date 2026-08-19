@@ -110,20 +110,7 @@ graph LR
 ```
 </details>
 
----
 
-## 📈 `> TELEMETRY_DATA`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilwagh99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilwagh99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00FFFF&text_color=a1a1aa&icon_color=FF00FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilwagh99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=a1a1aa" width="48%" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilwagh99&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=f4f4f5" width="100%" />
-</div>
-
----
 
 <div align="center">
 
