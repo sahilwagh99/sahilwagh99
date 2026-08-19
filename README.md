@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Reliable Cyberpunk Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:FF00FF&height=220&section=header&text=Sahil%20Wagh&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20AUTOMATION%20ENGINEER&descAlignY=70&descSize=18" width="100%" />
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0D1117,30:1F1F38,70:00FFFF,100:FF00FF&height=220&section=header&text=%E2%9C%A7%20SAHIL%20WAGH%20%E2%9C%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20AUTOMATION%20ARCHITECT%20%7C%20SYSTEMS%20DESIGNER&descAlignY=70&descSize=16)
 
-<br><br>
+<br>><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Initializing+AI+Core...;Loading+Automation+Protocols...;Welcome+to+the+Mainframe,+Sahil+Wagh.;Building+Intelligent+Systems+From+Chaos" />
 
