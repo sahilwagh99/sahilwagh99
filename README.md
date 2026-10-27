@@ -1,130 +1,64 @@
-<div align="center">
+# Sahil Wagh
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:1F1F38,70:00FFFF,100:FF00FF&height=220&section=header&text=SAHIL%20WAGH&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20AND%20AUTOMATION%20ARCHITECT%20%7C%20SYSTEMS%20DESIGNER&descAlignY=70&descSize=16" width="100%" />
+**AI / Generative AI Engineer** at EmergeFlow Technologies · Pune, India
 
-</div>
+I build production LLM systems: RAG and GraphRAG pipelines, agentic AI with LangGraph and MCP,
+and document intelligence on AWS. Over the past 2+ years I have shipped AI solutions for
+healthcare, finance, sports analytics, and regulatory compliance clients.
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Initializing+AI+Core...;Loading+Automation+Protocols...;Welcome+to+the+Mainframe,+Sahil+Wagh.;Building+Intelligent+Systems+From+Chaos" />
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF&borderColor=00FFFF)](mailto:sahilwagh.dev@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00FFFF&borderColor=00FFFF)](https://kaggle.com/sahilwagh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FFFF&borderColor=00FFFF)](https://www.leetcode.com/sai_wagh)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&borderColor=00FFFF)](https://github.com/sahilwagh99)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-wagh1602/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilwagh.dev@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/sahilwagh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/sai_wagh)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lpU4DsrjAuA8hxiXneTlSdRclogX9dpT/view?usp=sharing)
 
 ---
 
-## 🤖 `> ./execute_profile.sh`
+### What I work on
 
-```python
-class SahilWagh(Architect):
-    def __init__(self):
-        self.title = "AI & Automation Engineer"
-        self.status = "Optimizing Reality"
-        
-        self.core_processors = [
-            "Generative AI", 
-            "RAG Pipelines",
-            "Agentic Swarms", 
-            "Intelligent Automation",
-            "Computer Vision", 
-            "Cloud Orchestration"
-        ]
-        
-        self.directive = "Automate what should not be manual. Scale what matters."
-        
-    def generate_value(self):
-        return "Intelligence extracted from unstructured chaos."
-```
+- **LLM applications and agents:** multi-agent workflows in LangGraph, tool calling over MCP,
+  text-to-SQL, guardrails, and LLM evaluation
+- **Retrieval:** RAG and GraphRAG over enterprise documents with embeddings, vector databases,
+  and Neo4j knowledge graphs
+- **Document intelligence:** OCR and extraction pipelines with AWS Textract and LlamaIndex
+- **Computer vision and ML:** YOLO object detection, PyTorch, scikit-learn, XGBoost
+- **Automation:** UiPath RPA and the Microsoft Power Platform
 
-## ⚙️ `> SYSTEM_COMPONENTS`
+### Selected work
 
-<div align="center">
-  <!-- Immersive Background Table -->
-  <table width="100%" style="background-color: #0D1117; border: 2px solid #00FFFF; border-radius: 10px; padding: 10px;">
-    <tr>
-      <td width="50%" align="center" style="border-right: 1px solid #333; border-bottom: 1px solid #333; padding: 20px;">
-        <h3 style="color: #00FFFF; font-family: monospace;">🧠 AI / NEURAL NETS</h3>
-        <p><i>Building production-ready LLMs & RAGs</i></p>
-        <img src="https://skillicons.dev/icons?i=pytorch,huggingface,langchain,tensorflow&theme=dark" />
-      </td>
-      <td width="50%" align="center" style="border-bottom: 1px solid #333; padding: 20px;">
-        <h3 style="color: #00FFFF; font-family: monospace;">🌐 CLOUD / DEVOPS</h3>
-        <p><i>Deploying resilient systems & architectures</i></p>
-        <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,github&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="border-right: 1px solid #333; padding: 20px;">
-        <h3 style="color: #00FFFF; font-family: monospace;">🐍 BACKEND CORE</h3>
-        <p><i>Architecting scalable data pipelines & APIs</i></p>
-        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb&theme=dark" />
-      </td>
-      <td width="50%" align="center" style="padding: 20px;">
-        <h3 style="color: #00FFFF; font-family: monospace;">⚙️ AUTOMATION SUITE</h3>
-        <p><i>Extracting data and automating workflows</i></p>
-        <img src="https://skillicons.dev/icons?i=uipath,aws,opencv,powershell&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
+Most of this is client work, so the code is private. I am happy to walk through the design in a
+conversation.
 
-## 📡 `> ACTIVE_PIPELINES`
+| Project | Highlights | Stack |
+|---|---|---|
+| **Shooting performance analytics platform** | Scrapers and ETL into a 1.16M-row warehouse covering 6,708 athletes; 9-node agent over 26 MCP tools passed 12/12 golden-question evals; planner LLM cost down 31% | Python, LangGraph, MCP, DuckDB, FastAPI |
+| **GraphRAG for EU DORA contract compliance** | Supplier contracts mapped into a Neo4j knowledge graph and queried by 7 Cypher agents; beat vector RAG on 7 of 8 judged benchmarks; cost per answer down 54% | LangGraph, Claude, Neo4j, Qdrant |
+| **Healthcare invoice intelligence** | 500K+ invoices a year from 1,600+ hospitals at about 95% extraction accuracy | AWS Textract, LlamaIndex |
+| **Company intelligence API** | 500+ websites and brochures turned into 10K+ structured records, with semantic search over 50K+ products and images | Python, Crawl4AI, embeddings |
+| **Mango ripeness detection** | YOLO26n fine-tuned on 2,759 images, running at 3.8 ms per image on GPU | PyTorch, Ultralytics YOLO |
 
-<details open>
-<summary><b style="font-size: 1.1em; color: #00FFFF;">🟢 RAG & Agentic AI Architecture</b></summary>
-<br>
+### Tech stack
 
-```mermaid
-graph LR
-    A[Data Lake / APIs] -.->|Ingest| B[Chunking Engine]
-    B --> C[Vector Embeddings]
-    C --> D[(Vector DB)]
-    D <-->|Retrieve/Query| E((LangGraph Orchestrator))
-    E <--> F{LLM Core}
-    
-    style E fill:#00FFFF,stroke:#000,stroke-width:2px,color:#000
-    style F fill:#FF00FF,stroke:#000,stroke-width:2px,color:#fff
-    style D fill:#1A1A2E,stroke:#00FFFF,stroke-width:2px,color:#fff
-```
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,flask,postgres,mongodb,aws,docker,linux,git,ts,react" alt="Python, PyTorch, scikit-learn, OpenCV, FastAPI, Flask, PostgreSQL, MongoDB, AWS, Docker, Linux, Git, TypeScript, React" />
+</p>
 
-<details open>
-<summary><b style="font-size: 1.1em; color: #00FFFF;">🔵 Intelligent Document Processing</b></summary>
-<br>
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, TypeScript |
+| Generative AI | LangChain, LangGraph, LlamaIndex, MCP, OpenAI, Anthropic Claude, Google Gemini |
+| ML and vision | PyTorch, Hugging Face, scikit-learn, XGBoost, YOLO, OpenCV |
+| Data | PostgreSQL, MongoDB, Neo4j, DuckDB, FAISS, Pinecone, Qdrant, ChromaDB |
+| Backend and cloud | FastAPI, Flask, AWS (Textract, S3, Lambda, ECR), Docker, CI/CD, Git, Linux |
+| Automation | UiPath, Power Automate, Power Apps, Power BI, Playwright |
+| AI-assisted development | Claude Code, Cursor, Google Antigravity |
 
-```mermaid
-graph LR
-    A[Raw Input Docs] --> B[AWS Textract / OCR]
-    B --> C{LLM Extraction}
-    C --> D[Validation Logic]
-    D --> E[(Structured DB)]
-    
-    style C fill:#00FFFF,stroke:#000,stroke-width:2px,color:#000
-    style E fill:#00FFFF,stroke:#000,stroke-width:2px,color:#000
-```
-</details>
+### Recognition
 
+- **Kaggle Notebook Expert** with 15+ published notebooks and a global rank of about 2,000
+- Machine Learning Specialization and Microsoft Power BI Data Analyst (Coursera)
 
+---
 
-<div align="center">
-
-<!-- Tech Data Footer Graphic -->
-<img src="https://i.pinimg.com/originals/8a/8d/6d/8a8d6d67b2ab10d4808a3d463d11b33b.gif" width="100%" height="150" style="object-fit: cover; border-radius: 10px; opacity: 0.9;" alt="Data Stream Footer" />
-
-<br><br>
-
-> *"Engineering intelligent systems out of digital chaos."*
-
-**BUILD → AUTOMATE → INTELLIGENT → SCALE**
-
-<br>
-
-[![View Resume](https://img.shields.io/badge/Initiate_Download:-Resume-00FFFF?style=for-the-badge&logo=googledrive&logoColor=000000&labelColor=0D1117)](https://drive.google.com/file/d/1lpU4DsrjAuA8hxiXneTlSdRclogX9dpT/view?usp=sharing)
-
-</div>
+Reach me on [LinkedIn](https://www.linkedin.com/in/sahil-wagh1602/) or at
+[sahilwagh.dev@gmail.com](mailto:sahilwagh.dev@gmail.com).
