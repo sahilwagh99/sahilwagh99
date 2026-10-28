@@ -1,10 +1,11 @@
+<div align="center">
+
 # Sahil Wagh
 
 **AI / Generative AI Engineer** at EmergeFlow Technologies · Pune, India
 
-I build production LLM systems: RAG and GraphRAG pipelines, agentic AI with LangGraph and MCP,
-and document intelligence on AWS. Over the past 2+ years I have shipped AI solutions for
-healthcare, finance, sports analytics, and regulatory compliance clients.
+I build LLM systems that retrieve, reason, and automate, with evaluation, guardrails,
+and cost control built in from day one.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-wagh1602/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilwagh.dev@gmail.com)
@@ -12,47 +13,87 @@ healthcare, finance, sports analytics, and regulatory compliance clients.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/sai_wagh)
 [![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DHjhxphhrVEQm3PSwF9SW_CMU3RKFxvZ/view?usp=sharing)
 
+</div>
+
 ---
 
-### What I work on
+### Core strengths
 
-- **LLM applications and agents:** multi-agent workflows in LangGraph, tool calling over MCP,
-  text-to-SQL, guardrails, and LLM evaluation
-- **Retrieval:** RAG and GraphRAG over enterprise documents with embeddings, vector databases,
-  and Neo4j knowledge graphs
-- **Document intelligence:** OCR and extraction pipelines with AWS Textract and LlamaIndex
-- **Computer vision and ML:** YOLO object detection, PyTorch, scikit-learn, XGBoost
-- **Automation:** UiPath RPA pipelines with LLM steps and human-in-the-loop review, plus the
-  Microsoft Power Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Agentic AI</h4>
+      Multi-agent workflows that plan, call tools, and check their own answers.
+      <br><br>
+      <sub>LangGraph · LangChain · MCP · Tool calling · Text-to-SQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Retrieval and knowledge graphs</h4>
+      RAG and GraphRAG pipelines that ground LLM answers in real enterprise data.
+      <br><br>
+      <sub>LlamaIndex · Embeddings · FAISS · Pinecone · Qdrant · Neo4j · Cypher</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Document intelligence</h4>
+      OCR and extraction pipelines that turn unstructured documents into clean, structured data.
+      <br><br>
+      <sub>AWS Textract · LlamaIndex · spaCy NER · PyMuPDF</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Intelligent automation</h4>
+      RPA pipelines with LLM steps, scheduled robots, and human-in-the-loop review.
+      <br><br>
+      <sub>UiPath · Power Automate · Power Apps · Power BI · OpenAI API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Machine learning and vision</h4>
+      Classical ML, NLP, and object detection, from feature engineering to evaluation.
+      <br><br>
+      <sub>PyTorch · Hugging Face · scikit-learn · XGBoost · YOLO · OpenCV</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Production engineering</h4>
+      APIs, data pipelines, and deployments built to run reliably, not just demo well.
+      <br><br>
+      <sub>Python · FastAPI · PostgreSQL · DuckDB · Docker · AWS · CI/CD</sub>
+    </td>
+  </tr>
+</table>
 
-### Selected work
+### How I build
 
-Most of this is client work, so the code is private. I am happy to walk through the design in a
-conversation.
+- **Evaluation first.** Golden-question test sets and LLM-as-a-judge scoring decide what ships.
+- **Cost-aware by design.** Model routing, prompt caching, and leaner agent loops have cut LLM
+  costs by up to 54%.
+- **Grounded answers.** Guardrails that catch invented numbers, and checks that verify quoted
+  evidence against the source.
+- **Privacy before prompts.** Personal data is redacted with NER before it ever reaches a model.
+- **Humans in the loop.** Automation handles the volume; people make the judgment calls.
 
-| Project | Highlights | Stack |
-|---|---|---|
-| **Shooting performance analytics platform** | Scrapers and ETL into a 1.16M-row warehouse covering 6,708 athletes; 9-node agent over 26 MCP tools passed 12/12 golden-question evals; planner LLM cost down 31% | Python, LangGraph, MCP, DuckDB, FastAPI |
-| **GraphRAG for EU DORA contract compliance** | Supplier contracts mapped into a Neo4j knowledge graph and queried by 7 Cypher agents; beat vector RAG on 7 of 8 judged benchmarks; cost per answer down 54% | LangGraph, Claude, Neo4j, Qdrant |
-| **Healthcare invoice intelligence** | 500K+ invoices a year from 1,600+ hospitals at about 95% extraction accuracy | AWS Textract, LlamaIndex |
-| **Company intelligence API** | 500+ websites and brochures turned into 10K+ structured records, with semantic search over 50K+ products and images | Python, Crawl4AI, embeddings |
-| **Translator hiring and onboarding automation** | 30+ scheduled UiPath robots run the full hiring cycle for a global localization company: resume sourcing, Power BI Service screening, PII redaction with spaCy NER, GPT scoring against each job description with human-in-the-loop approval, Mailchimp test invites, and Lever onboarding | UiPath, OpenAI GPT, spaCy, Power BI Service, Mailchimp, Lever |
-
-### Tech stack
+### Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,flask,postgres,mongodb,aws,docker,linux,git,ts,react" alt="Python, PyTorch, scikit-learn, OpenCV, FastAPI, Flask, PostgreSQL, MongoDB, AWS, Docker, Linux, Git, TypeScript, React" />
+  <img src="https://skillicons.dev/icons?i=python,ts,pytorch,sklearn,opencv,fastapi,flask,postgres,mongodb,aws,docker,linux,git,react" alt="Python, TypeScript, PyTorch, scikit-learn, OpenCV, FastAPI, Flask, PostgreSQL, MongoDB, AWS, Docker, Linux, Git, React" />
 </p>
 
-| Area | Tools |
-|---|---|
-| Languages | Python, SQL, TypeScript |
-| Generative AI | LangChain, LangGraph, LlamaIndex, MCP, OpenAI, Anthropic Claude, Google Gemini |
-| ML, NLP and vision | PyTorch, Hugging Face, scikit-learn, XGBoost, spaCy, YOLO, OpenCV |
-| Data | PostgreSQL, MongoDB, Neo4j, DuckDB, FAISS, Pinecone, Qdrant, ChromaDB |
-| Backend and cloud | FastAPI, Flask, AWS (Textract, S3, Lambda, ECR), Docker, CI/CD, Git, Linux |
-| Automation | UiPath, Power Automate, Power Apps, Power BI, Playwright |
-| AI-assisted development | Claude Code, Cursor, Google Antigravity |
+![LangChain](https://img.shields.io/badge/LangChain-24292F?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-24292F?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-24292F?style=flat)
+![MCP](https://img.shields.io/badge/MCP-24292F?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-24292F?style=flat&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-24292F?style=flat&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-24292F?style=flat&logo=huggingface&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-24292F?style=flat&logo=neo4j&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-24292F?style=flat&logo=duckdb&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-24292F?style=flat&logo=uipath&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-24292F?style=flat)
+
+**AI-assisted development:** Claude Code · Cursor · Google Antigravity
 
 ### Recognition
 
@@ -61,5 +102,10 @@ conversation.
 
 ---
 
+<div align="center">
+
+Always happy to talk about LLM systems, retrieval, and automation.
 Reach me on [LinkedIn](https://www.linkedin.com/in/sahil-wagh1602/) or at
 [sahilwagh.dev@gmail.com](mailto:sahilwagh.dev@gmail.com).
+
+</div>
