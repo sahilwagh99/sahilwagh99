@@ -10,7 +10,7 @@ healthcare, finance, sports analytics, and regulatory compliance clients.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilwagh.dev@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/sahilwagh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/sai_wagh)
-[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XlKTnYhYVsx6pBVeXqOnS5y5fFGAIfF5/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DHjhxphhrVEQm3PSwF9SW_CMU3RKFxvZ/view?usp=sharing)
 
 ---
 
