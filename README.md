@@ -22,7 +22,8 @@ healthcare, finance, sports analytics, and regulatory compliance clients.
   and Neo4j knowledge graphs
 - **Document intelligence:** OCR and extraction pipelines with AWS Textract and LlamaIndex
 - **Computer vision and ML:** YOLO object detection, PyTorch, scikit-learn, XGBoost
-- **Automation:** UiPath RPA and the Microsoft Power Platform
+- **Automation:** UiPath RPA pipelines with LLM steps and human-in-the-loop review, plus the
+  Microsoft Power Platform
 
 ### Selected work
 
@@ -35,7 +36,7 @@ conversation.
 | **GraphRAG for EU DORA contract compliance** | Supplier contracts mapped into a Neo4j knowledge graph and queried by 7 Cypher agents; beat vector RAG on 7 of 8 judged benchmarks; cost per answer down 54% | LangGraph, Claude, Neo4j, Qdrant |
 | **Healthcare invoice intelligence** | 500K+ invoices a year from 1,600+ hospitals at about 95% extraction accuracy | AWS Textract, LlamaIndex |
 | **Company intelligence API** | 500+ websites and brochures turned into 10K+ structured records, with semantic search over 50K+ products and images | Python, Crawl4AI, embeddings |
-| **Mango ripeness detection** | YOLO26n fine-tuned on 2,759 images, running at 3.8 ms per image on GPU | PyTorch, Ultralytics YOLO |
+| **Translator hiring and onboarding automation** | 30+ scheduled UiPath robots run the full hiring cycle for a global localization company: resume sourcing, Power BI Service screening, PII redaction with spaCy NER, GPT scoring against each job description with human-in-the-loop approval, Mailchimp test invites, and Lever onboarding | UiPath, OpenAI GPT, spaCy, Power BI Service, Mailchimp, Lever |
 
 ### Tech stack
 
@@ -47,7 +48,7 @@ conversation.
 |---|---|
 | Languages | Python, SQL, TypeScript |
 | Generative AI | LangChain, LangGraph, LlamaIndex, MCP, OpenAI, Anthropic Claude, Google Gemini |
-| ML and vision | PyTorch, Hugging Face, scikit-learn, XGBoost, YOLO, OpenCV |
+| ML, NLP and vision | PyTorch, Hugging Face, scikit-learn, XGBoost, spaCy, YOLO, OpenCV |
 | Data | PostgreSQL, MongoDB, Neo4j, DuckDB, FAISS, Pinecone, Qdrant, ChromaDB |
 | Backend and cloud | FastAPI, Flask, AWS (Textract, S3, Lambda, ECR), Docker, CI/CD, Git, Linux |
 | Automation | UiPath, Power Automate, Power Apps, Power BI, Playwright |
